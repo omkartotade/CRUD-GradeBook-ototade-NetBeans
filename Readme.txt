@@ -1,4 +1,3 @@
-ReadMe file for CSE 564 - Assignment 2 -
 
 The zip file name is 'CRUD-GradeBook-ototade-Netbeans'.
 There are two separate projects in the zip file.

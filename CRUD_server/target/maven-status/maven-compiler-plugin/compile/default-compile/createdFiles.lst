@@ -1,0 +1,6 @@
+com\cse564\crud\restserver\jaxb\model\GradeItem.class
+com\cse564\crud\restserver\controller\Controller.class
+com\cse564\crud\restserver\restws\ApplicationConfig.class
+com\cse564\crud\restserver\jaxb\utils\Converter.class
+com\cse564\crud\restserver\jaxb\model\Score.class
+com\cse564\crud\restserver\restws\CRUDResource.class
